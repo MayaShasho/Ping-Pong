@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0px;
+  box-sizing: border-box;
+  background-color: #282c34;
+}
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.AppHeader {
+  color: white;
+}
